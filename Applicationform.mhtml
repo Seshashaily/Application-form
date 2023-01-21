@@ -1,0 +1,111 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Sesha%20shaily/OneDrive/Documents/Desktop/web/src/HTML/Applicationtest@sesha.html
+Subject: Application
+Date: Sat, 21 Jan 2023 04:42:46 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--7lFpKwEhLsrY8WsfX9U3KiLdV4VfZeZyhLDbzN9bbu----"
+
+
+------MultipartBoundary--7lFpKwEhLsrY8WsfX9U3KiLdV4VfZeZyhLDbzN9bbu----
+Content-Type: text/html
+Content-ID: <frame-A04423101D198503402B2E8A7F3883F1@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Sesha%20shaily/OneDrive/Documents/Desktop/web/src/HTML/Applicationtest@sesha.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3Dwindows-1252"><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-6aac6381-c24b-4a52-b153-7def2cdd6c7a@mhtml.bl=
+ink" />
+    <title>Application</title>
+   =20
+</head>
+<body>
+    <form>
+        <div>
+           <fieldset>
+            <lagent>Application form</lagent>
+            <table>
+                <tbody><tr>
+                    <td><label for=3D"Full Name"></label>Full name</td>
+                    <td><input type=3D"Full name" =3Dfull=3D"" name<=3D"" i=
+nput=3D""></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Father Name"></label>Father name</td>
+                    <td><input type=3D"Father name" =3Dfather=3D"" name<=3D=
+"" input=3D""></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Mother Name"></label>Mother name</td>
+                    <td><input type=3D"Mother name" =3Dmother=3D"" name<=3D=
+"" input=3D""></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Date of Birth"></label>DOB</td>
+                    <td><input type=3D"DD/MM/YYYY" =3Ddob<=3D"" input=3D"">=
+</td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Gender"></label>Gender</td>
+                    <td><select type=3D"--select--=3Dfemale,male,others</se=
+lect"></select></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"E-mail Address"></label>Emil id</td>
+                    <td><input type=3D"email I'd" =3Dabc@email.com<=3D"" in=
+put=3D""></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Mobile Number"></label>Mobile Number<=
+/td>
+                    <td><input type=3D"MNo" =3D10=3D"" digits<=3D"" input=
+=3D""></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Address"></label>Address</td>
+                    <td><input type=3D"Address" =3Dspace=3D"" margin:10px=
+=3D"" 0=3D"" 10px<=3D"" input=3D""></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Course Name"></label>Course Name</td>
+                    <td><input type=3D"Course Name" =3Dcourse=3D"" name<=3D=
+"" input=3D""></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Tyepe Of Education"></label>Type Of E=
+ducation</td>
+                    <td><select type=3D"Type of Education" =3Dtype=3D"" of=
+=3D"" education=3D""></select></td>
+                </tr>
+                <tr>
+                    <td><label for=3D"Course description"></label>Course de=
+scription</td>
+                    <td><input type=3D"Course description" =3Dspace=3D"" ma=
+rgin:10px=3D"" 0=3D"" 10px<=3D"" input=3D""></td>
+                </tr>
+                <tr>
+                    <td><button type=3D"Apply Now" value=3D"Apply Now" =3D"=
+btn"=3D""></button></td>
+                </tr>
+
+            </tbody></table>
+          =20
+   =20
+   =20
+
+
+</fieldset></div></form></body></html>
+------MultipartBoundary--7lFpKwEhLsrY8WsfX9U3KiLdV4VfZeZyhLDbzN9bbu----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6aac6381-c24b-4a52-b153-7def2cdd6c7a@mhtml.blink
+
+@charset "windows-1252";
+
+background { margin: 200px 0px 0px 200px; font-style: italic; font-size: me=
+dium; }
+
+fieldset { width: max-content; background-image: url("jktyre.jpg"); }
+------MultipartBoundary--7lFpKwEhLsrY8WsfX9U3KiLdV4VfZeZyhLDbzN9bbu------
